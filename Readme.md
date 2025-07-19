@@ -10,7 +10,7 @@ VRChatにある音ゲー「Resonark」にはまって個人的に作ったもの
 
 (RRSVに関してはクソデカプリンさんに連絡してください。)
 
-- RRSV作成者のクソデカプリンさんのTwitter~~(X)~~
+- RRSV作成者のクソデカプリンさんのTwitter(X)
 
 https://x.com/big_pudding_vrc
 
