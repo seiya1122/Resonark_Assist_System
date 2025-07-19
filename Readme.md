@@ -46,6 +46,9 @@ Music_Listのバックアップ。バックアップから復元する際は「.
 Music_Result_Listのバックアップ。バックアップから復元する際は「.backup」の部分を取り除くこと。
 また、バックアップはResonark_Music_Edit_Core.exeで可能。
 
+## Readme.txt
+Readme.mdと変わらない。テキストファイルのほうが見やすい人用。
+
 Q.自分のRateはどうやって計算するの?
 
 A.上位20曲のRateの平均です。
