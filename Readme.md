@@ -9,9 +9,13 @@ VRChatにある音ゲー「Resonark」にはまって個人的に作ったもの
 **レート計算はRRSV(Resonark Rating System for VR)、Resonetのほうが優秀なのでそっち使ってね。**
 
 (RRSVに関してはクソデカプリンさんに連絡してください。)
+
 - RRSV作成者のクソデカプリンさんのTwitter~~(X)~~
+
 https://x.com/big_pudding_vrc
+
 - Resonet
+
 https://resonet.app/
 
 ## Resonark_Music_Edit_Core.exe
@@ -43,8 +47,12 @@ Music_Result_Listのバックアップ。バックアップから復元する際
 また、バックアップはResonark_Music_Edit_Core.exeで可能。
 
 Q.自分のRateはどうやって計算するの?
+
 A.上位20曲のRateの平均です。
 
+
 Q.Resonarkって何?
+
 A.こちらに詳細が書いてあります。
+
 https://sepnekoya.com/resonark/
