@@ -27,3 +27,18 @@ Music_Result_Listのバックアップ。バックアップから復元する際
 
 ## Resonark_Record_Core
 現在の自身の戦績が見ることができる。各曲のScore、Tech Rate、Rateが確認可能。
+
+Q.Resonarkって何?
+
+A.こちらに詳細が書いてあります。
+
+https://sepnekoya.com/resonark/
+
+Q.RRSV(Resonark Rating System for VR)って何?
+
+A.クソデカプリンさんが作ったResonarkのレート計算システム。自分のレートがどのくらい上位かもわかるのが便利です。
+
+Q.Resonetって何?
+
+A.たるたるそーすさんが作ったResonarkのスコア管理サイト。
+デザインが本当に見やすいのでおすすめです。また、やり方もセーブデータから引っ張って来るだけなので非常に簡単。
