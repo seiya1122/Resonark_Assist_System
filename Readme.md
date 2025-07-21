@@ -31,6 +31,12 @@ RRSVレート7.0～7.9までを選択することが可能になる。
 ## Resonark_Music_Calculator_Core.exe
 Resonarkの曲のレートを3曲まで計算するexeファイル
 
+## Resonark_Record_Core.exe
+現在の自身の戦績が見ることができる。各曲のScore、Tech Rate、Rateが確認可能。
+
+## Resonark_Achievements_Core.exe
+実績が解除されたか見ることができる。Resonark_Record_Core.exeを開いて実績解除されたら見てみよう。
+
 ## Music_List.csv
 曲リスト
 
@@ -45,8 +51,11 @@ Music_Listのバックアップ。バックアップから復元する際は「.
 Music_Result_Listのバックアップ。バックアップから復元する際は「.backup」の部分を取り除くこと。
 また、バックアップはResonark_Music_Edit_Core.exeで可能。
 
-## Resonark_Record_Core
-現在の自身の戦績が見ることができる。各曲のScore、Tech Rate、Rateが確認可能。
+## Achievements.csv
+実績リストのcsvファイル
+
+## Achievements.csv.backup
+Achievementsのバックアップ。壊れることはないと思うけど念のため。
 
 ## Readme.txt
 Readme.mdと変わらない。テキストファイルのほうが見やすい人用。
