@@ -85,7 +85,4 @@ A.たるたるそーすさんが作ったResonarkのスコア管理サイト。�
 
 Q.問い合わせたい
 
-A.TwitterのDMかDiscordのサーバで受け付けます。
-
-Discordサーバ
-https://discord.com/invite/vhTU6xpqgW
+A.DiscordのDMかTwitter(X)のDMであれば対応できると思います。
