@@ -17,6 +17,9 @@ Resonark_Record_Core.exe
 Resonark_Achievements_Core.exe
 実績が解除されたか見ることができる。Resonark_Record_Core.exeを開いて実績解除されたら見てみよう。
 
+Resonark_Battle_Record_Core.exe
+TechRate、Score、Rateを使って2人対戦が可能。比較対象変更可能。
+
 Music_List.csv
 曲リスト
 
@@ -45,3 +48,10 @@ Q.Resonetって何?
 
 A.たるたるそーすさんが作ったResonarkのスコア管理サイト。
 デザインが本当に見やすいのでおすすめです。また、やり方もセーブデータから引っ張って来るだけなので非常に簡単。
+
+Q.問い合わせたい
+
+A.TwitterのDMかDiscordのサーバで受け付けます。
+
+Discordサーバ
+https://discord.com/invite/vhTU6xpqgW

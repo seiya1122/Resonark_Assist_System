@@ -2,11 +2,9 @@
 
 VRChatにある音ゲー「Resonark」にはまって個人的に作ったものです。
 
-## 対応しているもの
-- Resonark 4 Pt.1
-- Resonark 4 Pt.2
+## 注意事項
 
-**レート計算はRRSV(Resonark Rating System for VR)、Resonetのほうが優秀なのでそっち使ってね。**
+- **レート計算はRRSV(Resonark Rating System for VR)、Resonetのほうが優秀なのでそちらを使用してください。**
 
 (RRSVに関してはクソデカプリンさんに連絡してください。)
 
@@ -17,6 +15,14 @@ https://x.com/big_pudding_vrc
 - Resonet
 
 https://resonet.app/
+
+- 損害を受けても一切の責任を持ちません。
+
+- 作成者の判断でサービス終了する可能性があります。
+
+## 対応しているもの
+- Resonark 4 Pt.1
+- Resonark 4 Pt.2
 
 ## Resonark_Music_Edit_Core.exe
 Resonarkの曲の追加や削除するexeファイル
@@ -36,6 +42,9 @@ Resonarkの曲のレートを3曲まで計算するexeファイル
 
 ## Resonark_Achievements_Core.exe
 実績が解除されたか見ることができる。Resonark_Record_Core.exeを開いて実績解除されたら見てみよう。
+
+## Resonark_Battle_Record_Core.exe
+TechRate、Score、Rateを使って2人対戦が可能。比較対象変更可能。
 
 ## Music_List.csv
 曲リスト
@@ -73,3 +82,10 @@ A.クソデカプリンさんが作ったResonarkのレート計算システム�
 Q.Resonetって何?
 
 A.たるたるそーすさんが作ったResonarkのスコア管理サイト。デザインが本当に見やすいのでおすすめです。また、やり方もセーブデータから引っ張って来るだけなので非常に簡単。
+
+Q.問い合わせたい
+
+A.TwitterのDMかDiscordのサーバで受け付けます。
+
+Discordサーバ
+https://discord.com/invite/vhTU6xpqgW
